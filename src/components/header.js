@@ -3,9 +3,6 @@ import { FaGithub } from 'react-icons/fa';
 
 import './style.scss';
 
-import gatsbyLogo from '../images/gatsby-icon.png';
-import bulmaLogo from '../images/bulma-logo.png';
-import hueyDesktop from '../images/huey_hero_desktop-bg.png';
 import huey from '../images/huey.png';
 import Navbar from './navbar';
 
