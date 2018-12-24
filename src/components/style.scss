@@ -6,7 +6,7 @@
 
 .gradientBg {
 	display: flex;
-	background: linear-gradient(to right, $primary-color, $secondary-color);
+	background: linear-gradient($primary-color, $secondary-color);
 }
 
 .center {
@@ -26,4 +26,14 @@
 	a:hover {
 		color: $secondary-color;
 	}
+}
+
+.hero-title{
+	margin-top: 0 !important;
+	margin-bottom: .25 rem;
+}
+
+
+.huey{
+	margin-bottom: -5rem;
 }

@@ -1,16 +1,16 @@
 module.exports = {
 	siteMetadata: {
-		title: 'Gatsby Bulma Quickstart',
-		author: 'Aman Mittal',
-		imageUrl: 'https://i.imgur.com/Vz81GEl.png',
-		description: 'A Project to bootstrap your next Gatsby + Bulma site.',
-		keywords: `Web developer, Web, Developer, CSS, HTML, JS, Javascript, Gatsby, Bulma Developer, CSS3, HTML5, Seo, Starter`,
-		twitter: 'https://twitter.com/amanhimself',
-		github: `https://github.com/amandeepmittal`,
-		medium: 'https://medium.com/@amanhimself',
+		title: 'Huey Helo',
+		author: 'Seth Jenks',
+		imageUrl: '',
+		description: 'A childrens book based on the experiences of Colonel Richard Shurtleff',
+		keywords: `Huey the Helicopter, Childrens Book`,
+		twitter: '',
+		github: ``,
+		medium: '',
 		gatsby: 'https://www.gatsbyjs.org/',
 		bulma: 'https://bulma.io/',
-		siteUrl: `https://www.example.com`
+		siteUrl: `https://hueyhelo.com`
 	},
 	plugins: [
 		'gatsby-plugin-react-helmet',
