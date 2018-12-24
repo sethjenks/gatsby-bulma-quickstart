@@ -25,7 +25,7 @@ const Midsection = () => (
 							</figure>
 							<div className="media-content">
 								<div className="content">
-									<h1 className="title is-size-4">Uses Bulma</h1>
+									<h1 className="title is-size-4">About Huey</h1>
 									<p className="subtitle is-size-5">
 										Bulma is an open source CSS framework and used by more than
 										100,000 developers.
@@ -43,7 +43,7 @@ const Midsection = () => (
 							</figure>
 							<div className="media-content">
 								<div className="content">
-									<h1 className="title is-size-4">JAMStack Solution</h1>
+									<h1 className="title is-size-4">Colonel Richard Shurtleff</h1>
 									<p className="subtitle is-size-5">
 										It’s a new way of building websites and apps that delivers
 										better performance, higher security, lower cost of scaling,
