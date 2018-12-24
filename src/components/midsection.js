@@ -27,8 +27,7 @@ const Midsection = () => (
 								<div className="content">
 									<h1 className="title is-size-4">About Huey</h1>
 									<p className="subtitle is-size-5">
-										Bulma is an open source CSS framework and used by more than
-										100,000 developers.
+										Huey Helo is a little helicopter that helps children understand... developed from stories from Colonel Richard Shurtleff. 
 									</p>
 								</div>
 							</div>
