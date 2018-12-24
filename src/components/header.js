@@ -3,7 +3,7 @@ import { FaGithub } from 'react-icons/fa';
 
 import './style.scss';
 
-import huey from '../images/huey.png';
+import huey from '../images/huey@2x.png';
 import Navbar from './navbar';
 
 
