@@ -10,8 +10,8 @@ const Layout = ({ children }) => (
 	<div>
 		<Helmet />
 		<Header />
-		<Midsection />
 		
+
 	</div>
 );
 
